@@ -1,0 +1,147 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["A) Berlin", "B) Madrid", "C) Paris", "D) Rome"],
+        "answer": "C"
+    },
+    {
+        "question": "Which programming language is known for web development?",
+        "options": ["A) Python", "B) JavaScript", "C) C++", "D) Java"],
+        "answer": "B"
+    },
+    {
+        "question": "How many continents are there on Earth?",
+        "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the largest planet in our Solar System?",
+        "options": ["A) Earth", "B) Jupiter", "C) Saturn", "D) Mars"],
+        "answer": "B"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["A) Charles Dickens", "B) William Shakespeare", "C) Mark Twain", "D) Jane Austen"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["A) H2O", "B) CO2", "C) O2", "D) NaCl"],
+        "answer": "A"
+    },
+    {
+        "question": "How many sides does a triangle have?",
+        "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+        "answer": "B"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["A) China", "B) Japan", "C) Thailand", "D) Korea"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "options": ["A) 50°C", "B) 75°C", "C) 100°C", "D) 150°C"],
+        "answer": "C"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["A) Oxygen", "B) Nitrogen", "C) Carbon Dioxide", "D) Hydrogen"],
+        "answer": "C"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["A) Vincent van Gogh", "B) Pablo Picasso", "C) Leonardo da Vinci", "D) Claude Monet"],
+        "answer": "C"
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "options": ["A) Mercury", "B) Venus", "C) Earth", "D) Mars"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the square root of 16?",
+        "options": ["A) 2", "B) 4", "C) 6", "D) 8"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["A) Atlantic Ocean", "B) Indian Ocean", "C) Arctic Ocean", "D) Pacific Ocean"],
+        "answer": "D"
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "options": ["A) Iron", "B) Mercury", "C) Gold", "D) Silver"],
+        "answer": "B"
+    },
+    {
+        "question": "Who discovered gravity?",
+        "options": ["A) Galileo Galilei", "B) Isaac Newton", "C) Albert Einstein", "D) Nikola Tesla"],
+        "answer": "B"
+    },
+    {
+        "question": "How many bones are there in the human body?",
+        "options": ["A) 200", "B) 206", "C) 210", "D) 300"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "options": ["A) Lion", "B) Cheetah", "C) Horse", "D) Gazelle"],
+        "answer": "B"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["A) Earth", "B) Mars", "C) Venus", "D) Jupiter"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["A) Gold", "B) Diamond", "C) Platinum", "D) Quartz"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the smallest unit of life?",
+        "options": ["A) Organ", "B) Tissue", "C) Cell", "D) Atom"],
+        "answer": "C"
+    },
+    {
+        "question": "Which is the longest river in the world?",
+        "options": ["A) Nile", "B) Amazon", "C) Yangtze", "D) Mississippi"],
+        "answer": "A"
+    },
+    {
+        "question": "How many hearts does an octopus have?",
+        "options": ["A) 1", "B) 2", "C) 3", "D) 4"],
+        "answer": "C"
+    },
+    {
+        "question": "Which country invented tea?",
+        "options": ["A) India", "B) China", "C) Japan", "D) England"],
+        "answer": "B"
+    },
+    {
+        "question": "Which organ pumps blood in the human body?",
+        "options": ["A) Brain", "B) Heart", "C) Liver", "D) Kidney"],
+        "answer": "B"
+    },
+    {
+        "question": "Which element is found in abundance in the Sun?",
+        "options": ["A) Oxygen", "B) Hydrogen", "C) Carbon", "D) Helium"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the main gas in the air we breathe?",
+        "options": ["A) Oxygen", "B) Nitrogen", "C) Carbon Dioxide", "D) Hydrogen"],
+        "answer": "B"
+    },
+    {
+        "question": "How many planets are in the Solar System?",
+        "options": ["A) 7", "B) 8", "C) 9", "D) 10"],
+        "answer": "B"
+    },
+    {
+        "question": "Which animal is known as the 'Ship of the Desert'?",
+        "options": ["A) Camel", "B) Horse", "C) Donkey", "D) Elephant"],
+        "answer": "A"
+    }
+]
