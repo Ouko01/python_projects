@@ -8,7 +8,7 @@ def dice_simulator():
     print("Welcom to the Dice Rolling Simulator!")
     while True:
         # Ask the user if they eant to roll the dice
-        roll = input("Roll the dice? (yes/no)")
+        roll = input("Roll the dice? (yes/no)").lowercase()
         if roll == "yes":
             # Roll the dice and display the result
             result = roll_dice()
